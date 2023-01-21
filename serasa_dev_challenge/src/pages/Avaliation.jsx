@@ -1,10 +1,10 @@
 import React from "react";
 import { useState } from "react";
 import { VStack, Image, HStack, Input, Textarea, FormControl, FormLabel, Button, useToast, Stack, Text, Heading} from "@chakra-ui/react";
-import { Star } from "./components/Star";
-import logo from "./assets/serasa-logo-full.svg";
+import { Star } from "../components/Star";
+import logo from "../assets/serasa-logo-full.svg";
 
-export default function App() {
+export function Avaliation() {
 
   const handleClick = (id) => {
     setRating(id);
