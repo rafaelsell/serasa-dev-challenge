@@ -8,7 +8,7 @@
 
   Este foi meu primeiro projeto remunerado, e também o primeiro projeto a ir para deploy. 
   
-  [Link para o site]{https://datamobilead.com/gisellechirolli}
+  [Link para o site](https://datamobilead.com/gisellechirolli)
 
 ---
 
@@ -52,7 +52,7 @@ Design System, desde que seja bem documentado e acessível aos usuários.
 
 A minha preferida entre as 3 é a ChakraUI, pois oferece um bom balanço entre consistência e customização. 
 
-#### [Create T3]{https://create.t3.gg}
+#### [Create T3](https://create.t3.gg)
 
 O Create T3 é uma Stack de desenvolvimento focada em simplicidade, performance e experiência de desenvolvimento. 
 
@@ -66,7 +66,7 @@ Gerenciamento de estado pode ser uma dor de cabeça se tratando de aplicações 
 
 para solucionar esta questão. 
 
-#### [Jotai]{https://jotai.org}
+#### [Jotai](https://jotai.org)
 
 O Jotai promete evitar re-renders desnecessários usando um sistema de simples intregração e e execução. O Jotai usa como base o próprio useState do React, porem
 todos os estados são facilmente acessados pelo escopo global da aplicação.
